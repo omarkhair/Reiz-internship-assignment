@@ -9,7 +9,7 @@ List<Branch> branches;} ```
 ## How to run the project
 1. Clone the project locally using:
 ``` git clone https://github.com/omarkhair/Reiz-internship-assignment.git ```
-2. Navigate to the project folder and run:
+2. Navigate to the project folder and run (You need to have dotnet installed):
 ``` dotnet run ```
 3. Choose program *1* or *2* to run.	
 
